@@ -22,7 +22,7 @@ Each key completes a circuit between horizontal and vertical wires, producing a 
 
 Coming soon....
 
-## 📄 License
+## License
 
 ......
 
